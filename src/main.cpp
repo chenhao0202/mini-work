@@ -1,6 +1,4 @@
-#include <iostream>
-
-using namespace std;
+#include "public.h"
 
 class animal
 {
