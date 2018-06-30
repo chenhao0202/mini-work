@@ -21,3 +21,7 @@ git pull origin master
 #add servers:
 git push -u origin master
 
+
+#public key 
+ssh-keygen  -t rsassh-keygen -t rsa
+
