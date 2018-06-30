@@ -15,6 +15,9 @@ git status
 git commit
 git log
 
+#update loacl
+git pull origin master
+
 #add servers:
 git push -u origin master
 
